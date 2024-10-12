@@ -14,3 +14,5 @@ Rivalz Windows CLI
 5- npm i -g rivalz-node-cli komutu ile indiriyorsun.
 
 6 - rivalz run komutu ile calistır
+
+7- Artık EVM adresini girebilirsin.
