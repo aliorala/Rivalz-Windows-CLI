@@ -9,7 +9,7 @@ Rivalz Windows CLI
 
 3- PowerShell uygulamasını yönetici konumunda calistiriyorsun.
 
-4- ```console Set-ExecutionPolicy RemoteSigned``` komutu ile güvenlik ayarlarını yapıyorsun çıkan soruya all to all A yazıp enterliyorsun.
+4- ```Set-ExecutionPolicy RemoteSigned``` komutu ile güvenlik ayarlarını yapıyorsun çıkan soruya all to all A yazıp enterliyorsun.
 
 5- `npm i -g rivalz-node-cli` komutu ile indiriyorsun.
 
